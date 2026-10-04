@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="570" viewBox="0 0 1440 570" role="img" aria-labelledby="title desc">
+<title id="title">Three moments. One connection.</title>
+<desc id="desc">An illustrative product flow: a fictional Alex contact, a recorded story, and a search result with a saved supporting quote.</desc>
+<defs><linearGradient id="pearl" x2="1" y2="1"><stop stop-color="#E3D4F2"/><stop offset=".42" stop-color="#F8FFFA"/><stop offset="1" stop-color="#B6D6EE"/></linearGradient></defs>
+<rect width="1440" height="570" rx="28" fill="#F5F8FD"/>
+<g font-family="Avenir Next,Avenir,Helvetica,Arial,sans-serif">
+<text x="48" y="59" font-size="15" letter-spacing="3" fill="#6A7E96">THREE MOMENTS. ONE CONNECTION.</text>
+<g fill="#FFFFFF" stroke="#DEE7F2"><rect x="40" y="90" width="432" height="425" rx="24"/><rect x="504" y="90" width="432" height="425" rx="24"/><rect x="968" y="90" width="432" height="425" rx="24"/></g>
+<g font-size="14" fill="#3D75B9" font-weight="600" letter-spacing="2"><text x="68" y="132">01 / MEET</text><text x="532" y="132">02 / REMEMBER</text><text x="996" y="132">03 / RECONNECT</text></g>
+<g fill="#1D344F" font-size="27" font-weight="500"><text x="68" y="177">A face. A name.</text><text x="532" y="177">A story worth keeping.</text><text x="996" y="177">The right person.</text></g>
+<circle cx="112" cy="257" r="44" fill="url(#pearl)"/><circle cx="112" cy="257" r="34" fill="#E2EAF8"/><text x="112" y="268" text-anchor="middle" font-size="30" fill="#60799F" font-family="Georgia,serif">A</text>
+<text x="176" y="252" fill="#213B59" font-size="23">Alex</text><text x="176" y="281" fill="#7B8CA1" font-size="17">Met at a founders dinner</text>
+<rect x="68" y="330" width="376" height="64" rx="16" fill="#F3F6FC"/><text x="88" y="358" fill="#71849C" font-size="14">NEXT UP</text><text x="88" y="381" fill="#3B5575" font-size="18">Add their story in To do</text>
+<rect x="68" y="433" width="376" height="48" rx="14" fill="#326BC1"/><text x="256" y="464" text-anchor="middle" fill="white" font-size="17">Save to my network</text>
+<g stroke="#8CAAE0" stroke-width="5" stroke-linecap="round">
+<path d="M558 259v10m15-26v42m15-60v78m15-88v98m15-71v44m15-32v20m15-54v88m15-63v38m15-26v16m15-35v56m15-78v97m15-75v50m15-65v78m15-45v18m15-44v66m15-39v12m15-24v36m15-17v8m15-26v38m15-43v48m15-27v8m15-15v20"/>
+</g>
+<text x="532" y="348" fill="#4C647E" font-size="18">“Alex works at a16z and YC.”</text>
+<text x="532" y="386" fill="#7B8CA1" font-size="16">Fictional example voice note</text>
+<rect x="532" y="433" width="376" height="48" rx="14" fill="#EAF2F1"/><text x="720" y="464" text-anchor="middle" fill="#446F68" font-size="17">Transcript → organized notes</text>
+<rect x="996" y="218" width="376" height="65" rx="16" fill="#EDF3FD"/><text x="1015" y="246" fill="#375B8A" font-size="18">Who could help me</text><text x="1015" y="270" fill="#375B8A" font-size="18">with a startup?</text>
+<text x="996" y="324" fill="#243D5C" font-size="22">Alex may be worth asking.</text>
+<text x="996" y="357" fill="#71849C" font-size="16">Their saved affiliation is relevant.</text>
+<rect x="996" y="385" width="376" height="4" rx="2" fill="#D8E5F6"/>
+<text x="996" y="420" fill="#7B8CA1" font-size="12" letter-spacing="1.4">SUPPORTING QUOTE FROM YOUR NOTES</text>
+<text x="996" y="452" fill="#3A5577" font-size="19">“Alex works at a16z and YC.”</text>
+<text x="48" y="546" fill="#8391A5" font-size="13">Illustrative product flow · fictional contact · not a screenshot of a real account</text>
+</g></svg>

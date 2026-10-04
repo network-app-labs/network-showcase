@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="560" viewBox="0 0 1440 560" role="img" aria-labelledby="title desc">
+<title id="title">Network — Keep the story.</title>
+<desc id="desc">A pale blue and pearl project banner with a constellation of softly colored circles.</desc>
+<defs>
+  <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#F7F9FF"/><stop offset=".55" stop-color="#EEF3FD"/><stop offset="1" stop-color="#E6F1EF"/></linearGradient>
+  <linearGradient id="pearl" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#E4D5F4"/><stop offset=".32" stop-color="#FBFFFD"/><stop offset=".65" stop-color="#C7E8DF"/><stop offset="1" stop-color="#AAC6F1"/></linearGradient>
+  <radialGradient id="face"><stop stop-color="#FFFFFF"/><stop offset="1" stop-color="#DCE8F7"/></radialGradient>
+  <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%"><feDropShadow dx="0" dy="12" stdDeviation="14" flood-color="#5373A8" flood-opacity=".12"/></filter>
+</defs>
+<rect width="1440" height="560" rx="32" fill="url(#bg)"/>
+<circle cx="1125" cy="290" r="245" fill="#FFFFFF" opacity=".28"/>
+<g font-family="Avenir Next, Avenir, Helvetica, Arial, sans-serif">
+<text x="74" y="93" fill="#2864BC" font-size="20" font-weight="600" letter-spacing="5">NETWORK</text>
+<text x="70" y="220" fill="#172C46" font-size="76" font-weight="500" letter-spacing="-3">Keep the story.</text>
+<text x="74" y="282" fill="#4D647F" font-size="28">Remember the people you meet.</text>
+<text x="74" y="325" fill="#4D647F" font-size="28">Find the connection you need.</text>
+<rect x="74" y="406" width="252" height="48" rx="24" fill="#FFFFFF" opacity=".83"/>
+<circle cx="100" cy="430" r="5" fill="#467D74"/>
+<text x="116" y="437" fill="#355B69" font-size="17" font-weight="500">Working iPhone prototype</text>
+<text x="74" y="511" fill="#7B8DA3" font-size="15" letter-spacing="2">CAPTURE · REMEMBER · RECONNECT</text>
+</g>
+<g stroke="#9EB9D8" stroke-width="1.6" opacity=".6">
+<path d="M941 121L1124 220L1040 397L875 319L941 121L1262 369L1124 220L1300 111M1040 397L1262 369L1300 111M875 319L1124 220" fill="none"/>
+</g>
+<g filter="url(#shadow)">
+<g transform="translate(1124 220)"><circle r="86" fill="url(#pearl)" stroke="white" stroke-width="2"/><circle r="70" fill="url(#face)"/><circle cx="-24" cy="-27" r="38" fill="white" opacity=".38"/><text text-anchor="middle" y="14" fill="#536E98" font-family="Georgia,serif" font-size="44">A</text></g>
+<g transform="translate(941 121)"><circle r="55" fill="url(#pearl)" stroke="white" stroke-width="2"/><circle r="45" fill="#E6DEEF"/><text text-anchor="middle" y="10" fill="#877294" font-family="Georgia,serif" font-size="31">M</text></g>
+<g transform="translate(875 319)"><circle r="39" fill="url(#pearl)" stroke="white" stroke-width="2"/><circle r="31" fill="#D9E7EC"/><text text-anchor="middle" y="8" fill="#647D92" font-family="Georgia,serif" font-size="24">J</text></g>
+<g transform="translate(1040 397)"><circle r="60" fill="url(#pearl)" stroke="white" stroke-width="2"/><circle r="48" fill="#E1EBE1"/><text text-anchor="middle" y="11" fill="#758D79" font-family="Georgia,serif" font-size="33">S</text></g>
+<g transform="translate(1262 369)"><circle r="47" fill="url(#pearl)" stroke="white" stroke-width="2"/><circle r="38" fill="#E8E2DA"/><text text-anchor="middle" y="10" fill="#9A8570" font-family="Georgia,serif" font-size="28">L</text></g>
+<g transform="translate(1300 111)"><circle r="32" fill="url(#pearl)" stroke="white" stroke-width="2"/><circle r="23" fill="#DDE5F6"/></g>
+</g>
+<g fill="#99B1CE"><circle cx="838" cy="180" r="4"/><circle cx="1184" cy="459" r="4"/><circle cx="1350" cy="270" r="5"/><circle cx="1008" cy="50" r="3"/></g>
+</svg>
